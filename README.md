@@ -1,4 +1,4 @@
 # Alura-Typer
 
- <img src="./screenshots/aluratyper.png" alt="homepic">
- <img src="./screenshots/promo.png" alt="homepic">
+ <img src="./img/aluratyper.png" alt="typer pic">
+ <img src="./img/promo.png" alt="promo pic">
